@@ -1,4 +1,4 @@
-package tacos.controller.repository;
+package tacos.repository;
 
 import tacos.domain.Ingredient;
 
